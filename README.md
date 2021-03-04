@@ -1,4 +1,4 @@
-!!! This is a Community Edition, started as a hobby project that ran out of hand !!!
+!!! This is a Community Edition, started as a hobby project that ran out of hand... !!!
 
 # SLAPS Web UI Service
 Make sure to adjust appsettings.json with your own values.
